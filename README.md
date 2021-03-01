@@ -1,4 +1,13 @@
 
+------------------
+01032021 - 1716
+
+-Fleshing out Objectives -Temple objectives-
+-Addon settings done
+-Respawns Done
+-Lore/objectives correct now
+-Removed Omeur obj. adding Georgetown later
+
 
 ------------------
 01032021
