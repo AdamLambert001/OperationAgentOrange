@@ -1,14 +1,16 @@
-# OperationAgentOrange
-shitop
 
-26022021 Added some custom hjelicopters and custom people vietnam lol 
 
-ehhhhhhhhhhhhhhh
+------------------
+01032021
 
-if;
-gay=true
-    suck_cock=yes
-gay=false
-    suck_cock=no
+-Added x4 Squads, Respawns for Squads, GC/Command/Zeus
+-Added/fleshed out first green objectives.
+-Added updated objectives
 
-end
+------------------
+21022021
+
+-Fleshing out the first objective -pilots- 
+-helicopters
+-jets
+-scenario flow (objectives)
