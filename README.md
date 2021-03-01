@@ -1,3 +1,8 @@
+01032021 - 2336
+
+-Fleshed out Temple, Crash, started work on city
+-added further units to previous objectives
+-lore created for heli crash
 
 ------------------
 01032021 - 1716
