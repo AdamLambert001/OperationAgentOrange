@@ -22,7 +22,7 @@ SUNDAY at 1900 GMT / 2000 CET / 1500 EST
 Date - 07/01/21
 Name - Operation Agent Orange
 Zeus - Wallace and Rib
-Map - Tanoa
+Map - Tanoa - APEX REQUIRED
 Story - Gentlemen we are leading up to the last remnants of the Vietcong outside of Vietnam. We have been given the task of taking back Tanoa. 
 Its inhabitants are vast and wildly split between VC and normal Civ, checkfire on Civilians.
 
@@ -34,6 +34,7 @@ We have a multitude of assets on hand;
 - Bravo
 - Charlie
 - Foxtrot (If necessary)
-- Logistics x3
+- Logistics x2
 - AH-1Z Viper (x1 Pilot, x1 Gunner)
 - A-10 Warthog (x1 Pilot)
+- Ground Commander
