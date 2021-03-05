@@ -1,3 +1,11 @@
+05032021 - 1319
+
+-Finished Thi Tran George
+-Finished most objectives
+-Finalised HVT storyline
+-added some stuff to briefing doc
+
+------------------
 01032021 - 2336
 
 -Fleshed out Temple, Crash, started work on city

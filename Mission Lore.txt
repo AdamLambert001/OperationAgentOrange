@@ -14,6 +14,17 @@ Missions:
 -> Major cache locations at....
 - Sacred temple which VC used as Storage FAC, now main HQ, Destroy it, be advised, photos show signs of AA.
 
+------------------
+Briefing Points
+------------------
+- This is Vietnam-era Tanoa, Arsenals limited, we're americans in Vietnam-era... Don't leave mid-op because you died, that would be sad. Only leave
+if you have legitimate reason to, it sucks when you leave. 
+- We have x4 AH-1's available, 
+- Sacred Temple used to be a storage facility but now a main HQ, heavily defended, expect AA and reinforcements if you don't hit them hard and fast.
+- There may be unmarked objectives, because this is only our intelligence but we will update squads dynamically as we recieve information.
+
+
+
 
 ------------------
 Operation Channel
