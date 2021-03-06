@@ -4,6 +4,7 @@
 -Finished most objectives
 -Finalised HVT storyline
 -added some stuff to briefing doc
+-Fuck you rob!
 
 ------------------
 01032021 - 2336
